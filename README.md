@@ -48,5 +48,5 @@ Frontend Developer focused on building fast, scalable and clean web applications
 
 ## Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Telegram: @your_telegram
+- Linkedin: www.linkedin.com/in/dmytro-kobylian-693447288
+- Watsap: +48 789 664 883
