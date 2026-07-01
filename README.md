@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**DmytroOlegovychDev/DmytroOlegovychDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building fast, scalable and clean web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Frontend developer (React / Next.js / TypeScript)
+- Experience with CMS: WordPress, OpenCart, ModX, Bitrix
+- Worked with PHP + MySQL on backend and custom modules
+- Focused on UI, performance and component architecture
+- Interested in remote work and product development
+- Based in Europe
+
+---
+
+## Tech Stack
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,redux,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,vite" />
+
+---
+
+## Experience
+
+- Development and support of CMS-based websites
+- Custom functionality for WordPress / Bitrix / OpenCart
+- API integration and REST communication
+- Responsive and adaptive UI implementation
+- Debugging and optimization of existing projects
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Telegram: @your_telegram
