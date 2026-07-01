@@ -1,18 +1,16 @@
 ## Hi there 👋
 
-Frontend Developer focused on building fast, scalable and clean web applications.
+Frontend Developer | React · JavaScript · HTML/CSS | Open to Work | Remote
 
 ---
 
 ## About Me
 
-- Frontend developer (React / Next.js / TypeScript)
-- Experience with CMS: WordPress, OpenCart, ModX, Bitrix
-- Worked with PHP + MySQL on backend and custom modules
-- Focused on UI, performance and component architecture
-- Interested in remote work and product development
-- Based in Europe
-
+- 🎓 Bachelor of Software Engineering (Kherson State University, 2020–2024)
+- 🚀 Frontend Developer (React / Next.js / TypeScript)
+- 💼 Experience with CMS and backend integration (PHP / MySQL)
+- 🌍 Poland-based, actively seeking remote frontend roles
+- 💡 Focused on scalable UI, performance and production-ready code
 ---
 
 ## Tech Stack
