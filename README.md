@@ -13,15 +13,12 @@ Frontend Developer | JavaScript · TypeScript · React | Remote
 
 ---
 
-## Core Skills
-
 ### Frontend & UI
 
 ---
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,vite,webpack" />
 </p>
----
 
 - JavaScript (ES6+)
 - TypeScript
@@ -64,6 +61,6 @@ Frontend Developer | JavaScript · TypeScript · React | Remote
 
 - <img src="https://skillicons.dev/icons?i=linkedin" width="18"/> LinkedIn: www.linkedin.com/in/dmytro-kobylian-693447288
  
-- <img src="https://skillicons.dev/icons?i=whatsapp" width="18"/> WhatsApp: +48 789 664 883
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="18"/> WhatsApp: +48 789 664 883
 
 - <img src="https://skillicons.dev/icons?i=gmail" width="18"/> Gmail: kobylyan03@gmail.com
