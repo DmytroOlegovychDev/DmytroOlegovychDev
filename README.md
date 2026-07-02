@@ -1,50 +1,69 @@
-## Hi there 👋
+# Hi there 👋
 
-Frontend Developer | React · JavaScript · HTML/CSS | Open to Work | Remote
+Frontend Developer | JavaScript · TypeScript · React | Remote
 
 ---
 
 ## About Me
 
-- 🎓 Bachelor of Software Engineering (Kherson State University, 2020–2024)
-- 🚀 Frontend Developer (React / Next.js / TypeScript)
-- 💼 Experience with CMS and backend integration (PHP / MySQL)
-- 🌍 Poland-based, actively seeking remote frontend roles
-- 💡 Focused on scalable UI, performance and production-ready code
----
-
-## Tech Stack
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,redux,tailwind" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,vite" />
+🎓 Bachelor of Software Engineering (Kherson State University, 2020–2024)  
+🚀 Frontend Developer focused on modern web development  
+🌍 Based in Poland, open to remote opportunities  
+💡 Focused on clean UI, performance and scalable frontend architecture  
 
 ---
 
-## Experience
+## Core Skills
 
-- Development and support of CMS-based websites
-- Custom functionality for WordPress / Bitrix / OpenCart
-- API integration and REST communication
-- Responsive and adaptive UI implementation
-- Debugging and optimization of existing projects
+### Frontend & UI
+
+---
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,vite,webpack" />
+</p>
+---
+
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3 / SCSS
+- React
+- React Router
+- State management (Redux / Zustand basics)
+- REST API integration
+- Responsive design (mobile-first)
+- Modern layout (Flexbox, Grid)
+- Vite / Webpack
 
 ---
 
-## GitHub Stats
+## Development Focus
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+- SPA applications
+- Component-based architecture
+- Reusable UI components and design systems
+- API integration (REST)
+- Frontend performance optimization
+- Responsive and mobile-first design
+- Working with existing codebases
+- Cross-browser compatibility
 
 ---
 
-## Contact
+## What I'm Looking For
 
-- Linkedin: www.linkedin.com/in/dmytro-kobylian-693447288
-- Watsap: +48 789 664 883
+- Remote Frontend Developer position (React / TypeScript)
+- Real-world projects with modern frontend stack
+- Team experience and code collaboration
+- Opportunities to improve React / Next.js skills
+- Clean code, scalable UI and product-focused development
+
+---
+
+## Contact me
+
+- <img src="https://skillicons.dev/icons?i=linkedin" width="18"/> LinkedIn: www.linkedin.com/in/dmytro-kobylian-693447288
+ 
+- <img src="https://skillicons.dev/icons?i=whatsapp" width="18"/> WhatsApp: +48 789 664 883
+
+- <img src="https://skillicons.dev/icons?i=gmail" width="18"/> Gmail: kobylyan03@gmail.com
