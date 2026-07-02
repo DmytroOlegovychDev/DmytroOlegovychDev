@@ -15,7 +15,7 @@ Frontend Developer | JavaScript · TypeScript · React | Remote
 
 ### Frontend & UI
 
----
+--
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,vite,webpack" />
 </p>
