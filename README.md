@@ -59,8 +59,8 @@ Frontend Developer | JavaScript · TypeScript · React | Remote
 
 ## Contact me
 
-- <img src="https://skillicons.dev/icons?i=linkedin" width="18"/> LinkedIn: www.linkedin.com/in/dmytro-kobylian-693447288
+- LinkedIn: www.linkedin.com/in/dmytro-kobylian-693447288
  
-- <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="18"/> WhatsApp: https://wa.me/48789664883
+- WhatsApp: https://wa.me/48789664883
 
-- <img src="https://skillicons.dev/icons?i=gmail" width="18"/> Gmail: kobylyan03@gmail.com
+- Gmail: kobylyan03@gmail.com
