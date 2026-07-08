@@ -58,7 +58,7 @@ Frontend Developer | JavaScript · TypeScript · React | Remote
 
 ## Contact me
 
-- LinkedIn: www.linkedin.com/in/dmytro-kobylian-693447288
+- LinkedIn: [www.linkedin.com/in/dmytro-kobylian-693447288](https://www.linkedin.com/in/dmytro-kobylyan-693447288?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
  
 - WhatsApp: https://wa.me/48789664883
 
